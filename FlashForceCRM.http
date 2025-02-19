@@ -1,0 +1,6 @@
+@FlashForceCRM_HostAddress = http://localhost:5150
+
+GET {{FlashForceCRM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
